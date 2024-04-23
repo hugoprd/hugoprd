@@ -16,10 +16,10 @@ e praticar os conhecimentos que já sei.
 
 ### Linguagens e Ferramentas 👾
 
-<a href="https://github.com/search?q=user%3hugoprd+language%3C"><img align="left" alt="C" width"30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" /></a>
-<a href="https://github.com/search?q=user%3hugoprd+language%3Python"><img align="left" alt="Python" width"30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></a>
-<a href="https://github.com/search?q=user%3hugoprd+language%3Java"><img align="left" alt="Java" width"30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /></a>
-<a href="https://github.com/search?q=user%3hugoprd+language%3Javascript"><img align="left" alt="Javascript" width"30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" /></a>
+<a href="#"><img align="left" alt="C" width"30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" /></a>
+<a href="#"><img align="left" alt="Python" width"30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></a>
+<a href="#"><img align="left" alt="Java" width"30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /></a>
+<a href="#"><img align="left" alt="Javascript" width"30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" /></a>
 <br />
 
 #
