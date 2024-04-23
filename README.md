@@ -1,10 +1,10 @@
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=924DBF&center=true&vCenter=true&random=false&width=435&lines=Hugo+Prado+%F0%9F%91%BB" alt="Typing SVG" /></a>
+    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=924DBF&center=true&vCenter=true&random=false&width=435&lines=Hugo+Prado+%F0%9F%91%BB)](https://git.io/typing-svg)
 </p>
 
 <p align="left">Estudante de Curso Superior</p>
 
-Atualmente estudante de Sistemas de Informação na UNIRIO e com vontade de se especializar em ciência de dados. Meus repositórios em grande parte serão 
+Atualmente estudante de Sistemas de Informação na UNIRIO e com vontade de se especializar em ciência de dados e inteligência artificial. Meus repositórios em grande parte serão 
 projetos da minha faculdade, mas também alguns projetos com minhas ideias e eu faço todos com o propósito de evoluir minhas habilidades na programação 
 e praticar os conhecimentos que já sei.
 
@@ -23,10 +23,6 @@ e praticar os conhecimentos que já sei.
 
 ### Status atuais 📊
 
-![Hugo's Github Status](https://github-readme-stats.vercel.app/api?username=hugoprd&show_icons=true&theme=midnight-purple)
+![Meu status](https://github-readme-stats.vercel.app/api?username=hugoprd&show_icons=true&theme=midnight-purple)
 
 #
-
-<details>
-    <summary><h3>Meu objetivo 👻</h3></summary>
-    Meu objetivo na programação é aprender o máximo possível que eu conseguir com foco em inteligência artificial e ciência de dados
