@@ -1,16 +1,32 @@
-### Hi there 👋
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=924DBF&center=true&vCenter=true&random=false&width=435&lines=Hugo+Prado+%F0%9F%91%BB" alt="Typing SVG" /></a>
+</p>
 
-<!--
-**hugoprd/hugoprd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">Estudante de Curso Superior</p>
 
-Here are some ideas to get you started:
+Atualmente estudante de Sistemas de Informação na UNIRIO e com vontade de se especializar em ciência de dados. Meus repositórios em grande parte serão 
+projetos da minha faculdade, mas também alguns projetos com minhas ideias e eu faço todos com o propósito de evoluir minhas habilidades na programação 
+e praticar os conhecimentos que já sei.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Linguagens e Ferramentas 👾
+
+<img align="left" alt="C" width"30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" />
+<img align="left" alt="Python" width"30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="Java" width"30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img align="left" alt="Javascript" width"30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+
+<br />
+
+#
+
+### Status atuais 📊
+
+![Hugo's Github Status](https://github-readme-stats.vercel.app/api?username=hugoprd&show_icons=true&theme=midnight-purple)
+
+#
+
+<details>
+    <summary><h3>Meu objetivo 👻</h3></summary>
+    Meu objetivo na programação é aprender o máximo possível que eu conseguir com foco em inteligência artificial e ciência de dados
