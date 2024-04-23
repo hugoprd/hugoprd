@@ -13,10 +13,10 @@ e praticar os conhecimentos que já sei.
 ### Linguagens e Ferramentas 👾
 
 <p>
-    <a href="#"><img align="left" alt="C" width"30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" /></a>
-    <a href="#"><img align="left" alt="Python" width"30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></a>
-    <a href="#"><img align="left" alt="Java" width"30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /></a>
-    <a href="#"><img align="left" alt="Javascript" width"30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" /></a>
+    <a href="#"><img align="left" alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" style="padding-right:10px;" /></a>
+    <a href="#"><img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:10px;" /></a>
+    <a href="#"><img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="padding-right:10px;" /></a>
+    <a href="#"><img align="left" alt="Javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" style="padding-right:10px;" /></a>
     <br />
 </p>
 
