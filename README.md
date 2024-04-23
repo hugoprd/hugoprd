@@ -1,7 +1,3 @@
-<header>
-    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-</header>
-
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=924DBF&center=true&vCenter=true&random=false&width=435&lines=Hugo+Prado+%F0%9F%91%BB" alt="Typing SVG" /></a>
 </p>
