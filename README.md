@@ -4,7 +4,7 @@
 
 <p align="left"><h3>Estudante de Curso Superior</h3></p>
 
-Atualmente estudante de Sistemas de Informação na UNIRIO e com vontade de me especializar em ciência de dados e inteligência artificial. Meus repositórios em grande parte serão 
+Atualmente estudante de Sistemas de Informação na UNIRIO e com vontade de me especializar em ciência de dados e desenvolvimento de inteligência artificial. Meus repositórios em grande parte serão 
 projetos da minha faculdade, mas também alguns projetos com minhas ideias e todos eles tendo propósito de evoluir minhas habilidades na programação 
 e praticar os conhecimentos que já sei.
 
