@@ -5,21 +5,17 @@
 hello !
 
 <table border="0" cellpadding="0" cellspacing="0" align="center">
-  <tr>
-    <!-- Coluna da Imagem -->
-    <td style="border: none; padding-right: 32px; vertical-align: middle; text-align: center;">
-      <img src="./assets/images/rei-ascii.svg" alt="REI ASCII" width="280">
-    </td>
-    <!-- Coluna do Menu -->
-    <td style="border: none; padding-left: 32px; vertical-align: middle; font-family: monospace; font-size: 15px; line-height: 4; white-space: nowrap;">
-      ├── <a href="#1-about-me">1. about me</a><br>
-      ├── <a href="#2-skills">2. skills</a><br>
-      │&nbsp;&nbsp;&nbsp;├── <a href="#21-programming-languages">2.1. programming languages</a><br>
-      │&nbsp;&nbsp;&nbsp;└── <a href="#22-libraries">2.2. libraries</a><br>
-      ├── <a href="#3-top-projects">3. top projects</a><br>
-      └── <a href="#4-status">4. status</a>
-    </td>
-  </tr>
+  <p>
+    <img src="./assets/images/rei-ascii.svg" alt="REI ASCII" width="280" align="left">
+    <br><br><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── <a href="#1-about-me">1. about me</a>
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── <a href="#2-skills">2. skills</a>
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├── <a href="#21-programming-languages">2.1. programming languages</a>
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└── <a href="#22-libraries">2.2. libraries</a>
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── <a href="#3-top-projects">3. top projects</a>
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── <a href="#4-status">4. status</a>
+    <br clear="left">
+    </p>
 </table>
 
 ---
@@ -35,37 +31,39 @@ i am a student in the Bachelor of Science in Information Systems at the Universi
  
 my profile blends what I learn at university, what I learn by myself, and my hobbies, such as making games.
 
-<div align="center">
-
 ## 2. skills
 
 ### 2.1. programming languages
 
+<div align="center">
 <img src="https://img.shields.io/badge/C-7e6ac1?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-7e6ac1?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-7e6ac1?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/R-7e6ac1?style=for-the-badge&logo=r&logoColor=white" />
+</div>
 
 <br>
 
 ### 2.2. libraries
 
+<div align="center">
 <img src="https://img.shields.io/badge/PyTorch-7e6ac1?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/Keras-7e6ac1?style=for-the-badge&logo=keras&logoColor=white" />
 <img src="https://img.shields.io/badge/Gensim-7e6ac1?style=for-the-badge&logo=gensim&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit--Learn-7e6ac1?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-7e6ac1?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Torchkeras-7e6ac1?style=for-the-badge&logo=pytorch&logoColor=white" />
-
 </div>
 
 ## 3. personal top projects
 
+<div align="center">
 <p>
-    <a href="https://github.com/hugoprd/REPO_1"><img alt="vit-layernorm-vs-dyt" src="https://github-readme-stats.vercel.app/api/pin/?username=hugoprd&repo=vit-layernorm-vs-dyt&theme=midnight-purple" /></a><br />
-    <a href="https://github.com/hugoprd/fifa-country-ranking"><img alt="vit-layernorm-vs-dyt" src="https://github-readme-stats.vercel.app/api/pin/?username=hugoprd&repo=fifa-country-ranking&theme=midnight-purple" /></a><br />
-    <a href="https://github.com/hugoprd/REPO_3"><img alt="security-llm-agent" src="https://github-readme-stats.vercel.app/api/pin/?username=hugoprd&repo=security-llm-agent&theme=midnight-purple" /></a><br />
+    <a href="https://github.com/hugoprd/vit-layernorm-vs-dyt"><img alt="vit-layernorm-vs-dyt" src="https://github-readme-stats.vercel.app/api/pin/?username=hugoprd&repo=vit-layernorm-vs-dyt&theme=midnight-purple" /></a><br />
+    <a href="https://github.com/hugoprd/fifa-country-ranking"><img alt="fifa-country-ranking" src="https://github-readme-stats.vercel.app/api/pin/?username=hugoprd&repo=fifa-country-ranking&theme=midnight-purple" /></a><br />
+    <a href="https://github.com/hugoprd/security-llm-agent"><img alt="security-llm-agent" src="https://github-readme-stats.vercel.app/api/pin/?username=hugoprd&repo=security-llm-agent&theme=midnight-purple" /></a><br />
 </p>
+</div>
 
 ## 4. status
 
