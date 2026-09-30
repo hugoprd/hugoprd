@@ -4,14 +4,14 @@
 
 hello !
 
-<table align="center" style="background-color: transparent !important; border: none !important; border-collapse: collapse !important; border-spacing: 0 !important; box-shadow: none !important;">
-  <tr style="background-color: transparent !important; border: none !important;">
+<table border="0" cellpadding="0" cellspacing="0" align="center">
+  <tr>
     <!-- Coluna da Imagem -->
-    <td style="background-color: transparent !important; border: none !important; padding-right: 32px !important; vertical-align: middle !important; text-align: center !important;">
-      <img src="./assets/images/rei-ascii.svg" alt="REI ASCII" width="280" style="display: block; margin: 0 auto; border: none !important;">
+    <td style="border: none; padding-right: 32px; vertical-align: middle; text-align: center;">
+      <img src="./assets/images/rei-ascii.svg" alt="REI ASCII" width="280">
     </td>
     <!-- Coluna do Menu -->
-    <td style="background-color: transparent !important; border: none !important; padding-left: 32px !important; vertical-align: middle !important; font-family: monospace; font-size: 15px; line-height: 2.2; white-space: nowrap;">
+    <td style="border: none; padding-left: 32px; vertical-align: middle; font-family: monospace; font-size: 15px; line-height: 4; white-space: nowrap;">
       ├── <a href="#1-about-me">1. about me</a><br>
       ├── <a href="#2-skills">2. skills</a><br>
       │&nbsp;&nbsp;&nbsp;├── <a href="#21-programming-languages">2.1. programming languages</a><br>
