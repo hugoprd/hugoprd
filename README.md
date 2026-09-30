@@ -4,22 +4,20 @@
 
 hello !
 
-<table align="center" style="border: none !important; background-color: transparent !important; border-collapse: collapse !important; margin-bottom: 0 !important;">
+<table align="center" style="background-color: transparent; border-collapse: collapse; border-spacing: 0;">
   <tr>
     <!-- Coluna da Imagem -->
-    <td style="border: none !important; background-color: transparent !important; padding: 0 20px 0 0 !important; border-right: 1px solid #d6cff8 !important; vertical-align: middle !important; text-align: center;">
-      <img src="./assets/images/rei-ascii.svg" alt="REI ASCII" style="display: block; max-height: 250px; width: auto; object-fit: contain; margin: 0 auto;">
+    <td style="background-color: transparent; padding-right: 24px; border-right: 1px solid #7e6ac1; vertical-align: middle; text-align: center;">
+      <img src="./assets/images/rei-ascii.svg" alt="REI ASCII" width="220" style="display: block; margin: 0 auto;">
     </td>
-    <!-- Coluna do Menu / Texto -->
-    <td style="border: none !important; background-color: transparent !important; padding: 0 0 0 20px !important; vertical-align: middle !important;">
-      <pre style="background: transparent !important; border: none !important; margin: 0 !important; padding: 0 !important;">
-        ├── <a href="#1-about-me">1. about me</a>
-        ├── <a href="#2-skills">2. skills</a>
-        │   ├── <a href="#21-programming-languages">2.1. programming languages</a>
-        │   └── <a href="#22-libraries">2.2. libraries</a>
-        ├── <a href="#3-top-projects">3. top projects</a>
-        └── <a href="#4-status">4. status</a>
-      </pre>
+    <!-- Coluna do Menu (Sem a tag <pre> para sumir com o fundo cinza) -->
+    <td style="background-color: transparent; padding-left: 24px; vertical-align: middle; font-family: monospace; white-space: nowrap;">
+      ├── <a href="#1-about-me">1. about me</a><br>
+      ├── <a href="#2-skills">2. skills</a><br>
+      │&nbsp;&nbsp;&nbsp;├── <a href="#21-programming-languages">2.1. programming languages</a><br>
+      │&nbsp;&nbsp;&nbsp;└── <a href="#22-libraries">2.2. libraries</a><br>
+      ├── <a href="#3-top-projects">3. top projects</a><br>
+      └── <a href="#4-status">4. status</a>
     </td>
   </tr>
 </table>
