@@ -4,70 +4,22 @@
 
 hello !
 
-<style>
-  /* --- Estilos da Tabela --- */
-  .clean-table {
-    border: none !important;
-    background-color: transparent !important;
-    border-collapse: collapse !important; /* Para alinhar bordas */
-    margin-bottom: 0 !important;
-  }
-  
-  .clean-table th, 
-  .clean-table td {
-    border: none !important;
-    background-color: transparent !important;
-    padding: 0 !important; /* Remove o padding padrão para controlar internamente */
-  }
-
-  /* --- Linha Divisória Central --- */
-  /* Aplicamos a borda na célula da esquerda, mas ajustamos a altura */
-  .clean-table td.col-left {
-    border-right: 1px solid #d6cff8 !important;
-    padding-right: 20px !important; /* Espaço entre a linha e o conteúdo */
-    vertical-align: middle; /* Centraliza a imagem no meio da linha */
-  }
-
-  .clean-table td.col-right {
-    padding-left: 20px !important; /* Espaço entre a linha e o conteúdo */
-    vertical-align: middle; /* Centraliza o texto no meio da linha */
-  }
-
-  /* --- Ajuste da Imagem e Texto para mesma altura --- */
-  .col-left img {
-    display: block; /* Remove espaços extras abaixo da imagem */
-    height: 100%; /* Força a imagem a ter a altura da célula */
-    max-height: 250px; /* Opcional: limita a altura máxima se a imagem for gigante */
-    width: auto; /* Mantém a proporção */
-    object-fit: contain; /* Garante que a imagem não distorça */
-    margin: 0 auto; /* Centraliza a imagem horizontalmente na célula */
-  }
-
-  .col-right pre {
-    background: transparent !important;
-    border: none !important;
-    margin: 0 !important;
-    padding: 0 !important;
-    height: 100%; /* Força o bloco de texto a ter a altura da célula */
-    display: flex;
-    align-items: center; /* Alinha o texto verticalmente ao centro do bloco */
-  }
-</style>
-
-<table align="center" class="clean-table">
+<table align="center" style="border: none !important; background-color: transparent !important; border-collapse: collapse !important; margin-bottom: 0 !important;">
   <tr>
-    <td valign="middle" align="center" class="col-left">
-      <img src="./assets/images/rei-ascii.svg" alt="REI ASCII">
+    <!-- Coluna da Imagem -->
+    <td style="border: none !important; background-color: transparent !important; padding: 0 20px 0 0 !important; border-right: 1px solid #d6cff8 !important; vertical-align: middle !important; text-align: center;">
+      <img src="./assets/images/rei-ascii.svg" alt="REI ASCII" style="display: block; max-height: 250px; width: auto; object-fit: contain; margin: 0 auto;">
     </td>
-    <td valign="middle" class="col-right">
-<pre>
-├── <a href="#1-about-me">1. about me</a>
-├── <a href="#2-skills">2. skills</a>
-│   ├── <a href="#21-programming-languages">2.1. programming languages</a>
-│   └── <a href="#22-libraries">2.2. libraries</a>
-├── <a href="#3-top-projects">3. top projects</a>
-└── <a href="#4-status">4. status</a>
-</pre>
+    <!-- Coluna do Menu / Texto -->
+    <td style="border: none !important; background-color: transparent !important; padding: 0 0 0 20px !important; vertical-align: middle !important;">
+      <pre style="background: transparent !important; border: none !important; margin: 0 !important; padding: 0 !important;">
+        ├── <a href="#1-about-me">1. about me</a>
+        ├── <a href="#2-skills">2. skills</a>
+        │   ├── <a href="#21-programming-languages">2.1. programming languages</a>
+        │   └── <a href="#22-libraries">2.2. libraries</a>
+        ├── <a href="#3-top-projects">3. top projects</a>
+        └── <a href="#4-status">4. status</a>
+      </pre>
     </td>
   </tr>
 </table>
