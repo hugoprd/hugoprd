@@ -4,12 +4,62 @@
 
 hello !
 
-<table align="center">
+<style>
+  /* --- Estilos da Tabela --- */
+  .clean-table {
+    border: none !important;
+    background-color: transparent !important;
+    border-collapse: collapse !important; /* Para alinhar bordas */
+    margin-bottom: 0 !important;
+  }
+  
+  .clean-table th, 
+  .clean-table td {
+    border: none !important;
+    background-color: transparent !important;
+    padding: 0 !important; /* Remove o padding padrão para controlar internamente */
+  }
+
+  /* --- Linha Divisória Central --- */
+  /* Aplicamos a borda na célula da esquerda, mas ajustamos a altura */
+  .clean-table td.col-left {
+    border-right: 1px solid #d6cff8 !important;
+    padding-right: 20px !important; /* Espaço entre a linha e o conteúdo */
+    vertical-align: middle; /* Centraliza a imagem no meio da linha */
+  }
+
+  .clean-table td.col-right {
+    padding-left: 20px !important; /* Espaço entre a linha e o conteúdo */
+    vertical-align: middle; /* Centraliza o texto no meio da linha */
+  }
+
+  /* --- Ajuste da Imagem e Texto para mesma altura --- */
+  .col-left img {
+    display: block; /* Remove espaços extras abaixo da imagem */
+    height: 100%; /* Força a imagem a ter a altura da célula */
+    max-height: 250px; /* Opcional: limita a altura máxima se a imagem for gigante */
+    width: auto; /* Mantém a proporção */
+    object-fit: contain; /* Garante que a imagem não distorça */
+    margin: 0 auto; /* Centraliza a imagem horizontalmente na célula */
+  }
+
+  .col-right pre {
+    background: transparent !important;
+    border: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    height: 100%; /* Força o bloco de texto a ter a altura da célula */
+    display: flex;
+    align-items: center; /* Alinha o texto verticalmente ao centro do bloco */
+  }
+</style>
+
+<table align="center" class="clean-table">
   <tr>
-    <td valign="middle">
-      <img src="./assets/images/rei-ascii.svg" width="240" alt="REI ASCII">
+    <td valign="middle" align="center" class="col-left">
+      <img src="./assets/images/rei-ascii.svg" alt="REI ASCII">
     </td>
-    <td valign="middle">
+    <td valign="middle" class="col-right">
 <pre>
 ├── <a href="#1-about-me">1. about me</a>
 ├── <a href="#2-skills">2. skills</a>
