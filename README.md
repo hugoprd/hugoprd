@@ -7,7 +7,7 @@ hello !
 <table align="center">
   <tr>
     <td valign="middle">
-      <img src="./assets/images/rei-ascii.png" width="240" alt="REI ASCII">
+      <img src="./assets/images/rei-ascii.svg" width="240" alt="REI ASCII">
     </td>
     <td valign="middle">
 <pre>
