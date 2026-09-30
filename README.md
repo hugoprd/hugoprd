@@ -1,11 +1,9 @@
-<p align="center">
-  <img src="./assets/rei-ascii.png" width="240" alt="REI ASCII">
-</p>
+hello !
 
 <table align="center">
   <tr>
     <td valign="middle">
-      <img src="ascii.svg" alt="ASCII art" width="320" />
+      <img src="./assets/rei-ascii.png" width="240" alt="REI ASCII">
     </td>
     <td valign="middle">
 <pre>
