@@ -67,9 +67,12 @@
 
 ## 4. status
 
-<!-- START_LANGS -->
-<!-- END_LANGS -->
+<div align="center">
+<div align="center">
+  <img src="./langs_stats.svg" alt="Estatísticas de Linguagens">
+</div>
 
 <br>
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=hugoprd&show_icons=true&theme=midnight-purple)
+</div>
