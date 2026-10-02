@@ -1,0 +1,20 @@
+<svg width="450" height="165" xmlns="http://www.w3.org/2000/svg">
+        <style>
+            @import url('https://fonts.googleapis.com/css2?family=VT323&amp;display=swap');
+            .text { 
+                font-family: 'VT323', monospace; 
+                font-size: 24px; 
+            }
+            @media (prefers-color-scheme: dark) {
+            .text { fill: #c9d1d9; }
+            }
+            @media (prefers-color-scheme: light) {
+            .text { fill: #24292f; }
+            }
+        </style>
+            <text x="0" y="25" class="text" xml:space="preserve">          python  ██████░░░░░░░░░  44.5%</text>
+    <text x="0" y="53" class="text" xml:space="preserve">            java  ███░░░░░░░░░░░░  21.8%</text>
+    <text x="0" y="81" class="text" xml:space="preserve">jupyter notebook  █░░░░░░░░░░░░░░  13.2%</text>
+    <text x="0" y="109" class="text" xml:space="preserve">           shell  █░░░░░░░░░░░░░░  7.3%</text>
+    <text x="0" y="137" class="text" xml:space="preserve">        gdscript  ░░░░░░░░░░░░░░░  5.6%</text>
+        </svg>
