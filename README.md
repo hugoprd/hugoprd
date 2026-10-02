@@ -68,6 +68,33 @@
 ## 4. status
 
 <!-- START_LANGS -->
+<table align="center" style="border: none !important; background-color: transparent !important; border-collapse: collapse !important;">
+  <tr style="border: none !important; background-color: transparent !important;">
+    <td align="right" style="border: none !important; padding: 2px 12px 2px 0 !important; font-family: monospace; white-space: nowrap;">python</td>
+    <td style="border: none !important; padding: 2px 12px 2px 0 !important; font-family: monospace; white-space: nowrap;">██████░░░░░░░░░</td>
+    <td align="right" style="border: none !important; padding: 2px 0 2px 0 !important; font-family: monospace; white-space: nowrap;">44.6%</td>
+  </tr>
+  <tr style="border: none !important; background-color: transparent !important;">
+    <td align="right" style="border: none !important; padding: 2px 12px 2px 0 !important; font-family: monospace; white-space: nowrap;">java</td>
+    <td style="border: none !important; padding: 2px 12px 2px 0 !important; font-family: monospace; white-space: nowrap;">███░░░░░░░░░░░░</td>
+    <td align="right" style="border: none !important; padding: 2px 0 2px 0 !important; font-family: monospace; white-space: nowrap;">21.8%</td>
+  </tr>
+  <tr style="border: none !important; background-color: transparent !important;">
+    <td align="right" style="border: none !important; padding: 2px 12px 2px 0 !important; font-family: monospace; white-space: nowrap;">jupyter notebook</td>
+    <td style="border: none !important; padding: 2px 12px 2px 0 !important; font-family: monospace; white-space: nowrap;">█░░░░░░░░░░░░░░</td>
+    <td align="right" style="border: none !important; padding: 2px 0 2px 0 !important; font-family: monospace; white-space: nowrap;">13.2%</td>
+  </tr>
+  <tr style="border: none !important; background-color: transparent !important;">
+    <td align="right" style="border: none !important; padding: 2px 12px 2px 0 !important; font-family: monospace; white-space: nowrap;">shell</td>
+    <td style="border: none !important; padding: 2px 12px 2px 0 !important; font-family: monospace; white-space: nowrap;">█░░░░░░░░░░░░░░</td>
+    <td align="right" style="border: none !important; padding: 2px 0 2px 0 !important; font-family: monospace; white-space: nowrap;">7.3%</td>
+  </tr>
+  <tr style="border: none !important; background-color: transparent !important;">
+    <td align="right" style="border: none !important; padding: 2px 12px 2px 0 !important; font-family: monospace; white-space: nowrap;">gdscript</td>
+    <td style="border: none !important; padding: 2px 12px 2px 0 !important; font-family: monospace; white-space: nowrap;">░░░░░░░░░░░░░░░</td>
+    <td align="right" style="border: none !important; padding: 2px 0 2px 0 !important; font-family: monospace; white-space: nowrap;">5.6%</td>
+  </tr>
+</table>
 <!-- END_LANGS -->
 
 <br>
