@@ -8,6 +8,9 @@
     <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── <a href="#2-skills">2. skills</a>
     <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├── <a href="#21-programming-languages">2.1. programming languages</a>
     <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└── <a href="#22-libraries">2.2. libraries</a>
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└── <a href="#23-databases">2.3. databases</a>
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└── <a href="#24-cloud--devops">2.4. cloud & devops</a>
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└── <a href="#25-data-tools">2.5. data tools</a>
     <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── <a href="#3-top-projects">3. top projects</a>
     <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── <a href="#4-status">4. status</a>
     <br clear="left">
@@ -55,6 +58,35 @@
 <img src="https://img.shields.io/badge/Scikit--Learn-7e6ac1?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-7e6ac1?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Torchkeras-7e6ac1?style=for-the-badge&logo=pytorch&logoColor=white" />
+</div>
+
+### 2.3. databases
+
+<div align="center">
+<img src="https://img.shields.io/badge/PostgreSQL-7e6ac1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-7e6ac1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-7e6ac1?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-7e6ac1?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20Hive-7e6ac1?style=for-the-badge&logo=apachehive&logoColor=white" />
+</div>
+
+### 2.4. cloud & devops
+
+<div align="center">
+<img src="https://img.shields.io/badge/AWS-7e6ac1?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS%20SageMaker-7e6ac1?style=for-the-badge&logo=amazonsagemaker&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure%20DevOps-7e6ac1?style=for-the-badge&logo=azuredevops&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure%20Machine%20Learning-7e6ac1?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-7e6ac1?style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20Hive-7e6ac1?style=for-the-badge&logo=apachehive&logoColor=white" />
+</div>
+
+### 2.5. data tools
+
+<div align="center">
+<img src="https://img.shields.io/badge/Jupyter-7e6ac1?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-7e6ac1?style=for-the-badge&logo=powerbi&logoColor=white" />
+<img src="https://img.shields.io/badge/DBeaver-7e6ac1?style=for-the-badge&logo=dbeaver&logoColor=white" />
 </div>
 
 ## 3. personal top projects
