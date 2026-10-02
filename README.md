@@ -41,13 +41,13 @@ my profile blends what I learn at university, what I learn by myself, and my hob
 <br>
 
 <!-- START_LANGS -->
-<pre>
-Python       ██████░░░░░░░░░ 44.5%
-Java         ███░░░░░░░░░░░░ 21.8%
-Jupyter Notebook █░░░░░░░░░░░░░░ 13.2%
-Shell        █░░░░░░░░░░░░░░ 7.3%
-GDScript     ░░░░░░░░░░░░░░░ 5.6%
-</pre>
+<div align="center" style="font-family: monospace; white-space: nowrap;">
+python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██████░░░░░░░░░&nbsp;&nbsp;44.6%<br>
+java&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;███░░░░░░░░░░░░&nbsp;&nbsp;21.8%<br>
+jupyter&nbsp;notebook&nbsp;&nbsp;█░░░░░░░░░░░░░░&nbsp;&nbsp;13.2%<br>
+shell&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;█░░░░░░░░░░░░░░&nbsp;&nbsp;7.3%<br>
+gdscript&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;░░░░░░░░░░░░░░░&nbsp;&nbsp;5.6%<br>
+</div>
 <!-- END_LANGS -->
 
 ### 2.2. libraries
