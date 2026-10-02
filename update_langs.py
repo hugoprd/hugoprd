@@ -36,30 +36,31 @@ def create_svg(stats):
     max_name_len = max(len(lang) for lang, _ in sorted_langs)
     
     svg_lines = []
-    y_pos = 25
+    y_pos = 28
     
     for lang, bytes_count in sorted_langs:
         percent = (bytes_count / total_bytes) * 100
         bar = generate_ascii_bar(percent)
         lang_name = lang.lower().rjust(max_name_len)
         
+        # Monta a linha completa: nome, barra e porcentagem
         line_text = f"{lang_name}  {bar}  {percent:.1f}%"
-        svg_lines.append(f'    <text x="0" y="{y_pos}" class="text" xml:space="preserve">{line_text}</text>')
-        y_pos += 28
+        svg_lines.append(f'    <text x="10" y="{y_pos}" class="text" xml:space="preserve">{line_text}</text>')
+        y_pos += 32
         
-    svg_content = f"""<svg width="450" height="{y_pos}" xmlns="http://www.w3.org/2000/svg">
+    svg_content = f"""<svg width="520" height="{y_pos}" xmlns="http://www.w3.org/2000/svg">
         <style>
             @import url('https://fonts.googleapis.com/css2?family=VT323&amp;display=swap');
             .text {{ 
                 font-family: 'VT323', monospace; 
                 font-size: 24px; 
             }}
-            @media (prefers-color-scheme: dark) {{
-            .text {{ fill: #c9d1d9; }}
-            }}
-            @media (prefers-color-scheme: light) {{
-            .text {{ fill: #24292f; }}
-            }}
+            @media (prefers-color-scheme: dark) {
+              .text { fill: #c9d1d9; }
+            }
+            @media (prefers-color-scheme: light) {
+              .text { fill: #24292f; }
+            }
         </style>
         {chr(10).join(svg_lines)}
         </svg>"""
