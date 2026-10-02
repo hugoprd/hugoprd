@@ -47,7 +47,7 @@ def create_svg(stats):
         svg_lines.append(f'    <text x="0" y="{y_pos}" class="text" xml:space="preserve">{line_text}</text>')
         y_pos += 28
         
-    svg_content = f"""<svg width="720" height="{y_pos}" xmlns="http://www.w3.org/2000/svg">
+    svg_content = f"""<svg width="640" height="{y_pos}" xmlns="http://www.w3.org/2000/svg">
         <style>
             @import url('https://fonts.googleapis.com/css2?family=VT323&amp;display=swap');
             .text {{ 

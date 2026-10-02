@@ -69,7 +69,7 @@
 
 <div align="center">
 <div align="center">
-  <img src="./langs_stats.svg" alt="Estatísticas de Linguagens">
+  <img src="./langs_stats.svg?v=2" alt="Estatísticas de Linguagens">
 </div>
 
 <br>
