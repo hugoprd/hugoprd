@@ -40,6 +40,8 @@
 <img src="https://img.shields.io/badge/Java-7e6ac1?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-7e6ac1?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/R-7e6ac1?style=for-the-badge&logo=r&logoColor=white" />
+<img src="https://img.shields.io/badge/Shell-7e6ac1?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/GDScript-7e6ac1?style=for-the-badge&logo=godotengine&logoColor=white" />
 </div>
 
 <br>
