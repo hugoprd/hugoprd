@@ -11,7 +11,7 @@
     <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└── <a href="#23-databases">2.3. databases</a>
     <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└── <a href="#24-cloud--devops">2.4. cloud & devops</a>
     <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└── <a href="#25-data-tools">2.5. data tools</a>
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── <a href="#3-top-projects">3. top projects</a>
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── <a href="#3-personal-top-projects">3. personal top projects</a>
     <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── <a href="#4-status">4. status</a>
     <br clear="left">
   </p>
