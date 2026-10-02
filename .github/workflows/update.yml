@@ -1,0 +1,35 @@
+name: Atualizar Gráfico de Linguagens
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # roda diariamente à meia-noite
+  workflow_dispatch: # permite rodar manualmente no botão
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
+
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Instalar dependências
+        run: pip install requests
+
+      - name: Rodar script de atualização
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: python update_langs.py
+
+      - name: Fazer o commit das alterações
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "docs: atualiza gráfico de linguagens" || exit 0
+          git push
