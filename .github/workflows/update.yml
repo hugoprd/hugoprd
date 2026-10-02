@@ -1,6 +1,9 @@
 name: Atualizar Gráfico de Linguagens
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: "0 0 * * *" # roda diariamente à meia-noite
   workflow_dispatch: # permite rodar manualmente no botão
