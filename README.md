@@ -47,8 +47,6 @@
 <img src="https://img.shields.io/badge/GDScript-7e6ac1?style=for-the-badge&logo=godotengine&logoColor=white" />
 </div>
 
-<br>
-
 ### 2.2. libraries
 
 <div align="center">
