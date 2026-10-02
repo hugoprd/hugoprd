@@ -33,31 +33,27 @@ def generate_ascii_bar(percent, width=15):
 
 def update_readme(stats):
     total_bytes = sum(stats.values())
-    
-    # Ordena as linguagens da mais usada para a menos usada
     sorted_langs = sorted(stats.items(), key=lambda x: x[1], reverse=True)[:5]
     
-    # 1. Encontra o tamanho do maior nome para alinhar perfeitamente (ex: jupyter notebook tem 16)
-    max_name_len = max(len(lang) for lang, _ in sorted_langs)
-    
-    # 3. Usa um div com fonte monospace em vez do <pre> para sumir com o fundo cinza
-    graph_lines = ['<div align="center" style="font-family: monospace; white-space: nowrap;">']
+    # Inicia a construção de uma tabela invisível
+    graph_lines = ['<table align="center" style="border: none !important; background-color: transparent !important; border-collapse: collapse !important;">']
     
     for lang, bytes_count in sorted_langs:
         percent = (bytes_count / total_bytes) * 100
         bar = generate_ascii_bar(percent)
+        lang_name = lang.lower()
         
-        # 2. Deixa em minúsculo e preenche com espaços até igualar ao maior nome
-        lang_name = lang.lower().ljust(max_name_len)
+        # Cria as linhas da tabela, separando as variáveis em colunas (td)
+        graph_lines.append('  <tr style="border: none !important; background-color: transparent !important;">')
+        # Coluna 1: Nome alinhado à direita
+        graph_lines.append(f'    <td align="right" style="border: none !important; padding: 2px 12px 2px 0 !important; font-family: monospace; white-space: nowrap;">{lang_name}</td>')
+        # Coluna 2: Barra ASCII
+        graph_lines.append(f'    <td style="border: none !important; padding: 2px 12px 2px 0 !important; font-family: monospace; white-space: nowrap;">{bar}</td>')
+        # Coluna 3: Porcentagem alinhada à direita
+        graph_lines.append(f'    <td align="right" style="border: none !important; padding: 2px 0 2px 0 !important; font-family: monospace; white-space: nowrap;">{percent:.1f}%</td>')
+        graph_lines.append('  </tr>')
         
-        # Monta a linha com dois espaços de respiro entre os elementos
-        line = f"{lang_name}  {bar}  {percent:.1f}%"
-        
-        # Troca espaços normais por &nbsp; para o GitHub não ignorar o alinhamento e adiciona <br>
-        line_safe = line.replace(" ", "&nbsp;")
-        graph_lines.append(f"{line_safe}<br>")
-        
-    graph_lines.append("</div>")
+    graph_lines.append("</table>")
     
     new_content = "\n".join(graph_lines)
     

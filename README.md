@@ -11,7 +11,7 @@
     <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── <a href="#3-top-projects">3. top projects</a>
     <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── <a href="#4-status">4. status</a>
     <br clear="left">
-    </p>
+  </p>
 </table>
 
 ---
@@ -19,13 +19,17 @@
 <div align="center">
     <a href="https://linkedin.com/in/hugo-prd"><img src="https://img.shields.io/badge/LinkedIn-4e31a4?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="mailto:hugo.prd.br@gmail.com"><img src="https://img.shields.io/badge/Email-4e31a4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<div align="center">
+</div>
 
 ## 1. about me
 
-i am a student in the Bachelor of Science in Information Systems at the Universidade Federal do Estado do Rio de Janeiro (UNIRIO) interested in deep learning and data science, especially in the architecture, training, and evaluation of machine learning and large language models (LLMs).
- 
-my profile blends what I learn at university, what I learn by myself, and my hobbies, such as making games.
+<div align="center">
+    <p align="justify">
+    i am a student in the Bachelor of Science in Information Systems at the Universidade Federal do Estado do Rio de Janeiro (UNIRIO) interested in deep learning and data science, especially in the architecture, training, and evaluation of machine learning and large language models (LLMs).
+    <br><br>
+    my profile blends what I learn at university, what I learn by myself, and my hobbies, such as making games.
+    </p>
+</div>
 
 ## 2. skills
 
@@ -39,16 +43,6 @@ my profile blends what I learn at university, what I learn by myself, and my hob
 </div>
 
 <br>
-
-<!-- START_LANGS -->
-<pre>
-Python       ██████░░░░░░░░░ 44.5%
-Java         ███░░░░░░░░░░░░ 21.8%
-Jupyter Notebook █░░░░░░░░░░░░░░ 13.2%
-Shell        █░░░░░░░░░░░░░░ 7.3%
-GDScript     ░░░░░░░░░░░░░░░ 5.6%
-</pre>
-<!-- END_LANGS -->
 
 ### 2.2. libraries
 
@@ -72,5 +66,10 @@ GDScript     ░░░░░░░░░░░░░░░ 5.6%
 </div>
 
 ## 4. status
+
+<!-- START_LANGS -->
+<!-- END_LANGS -->
+
+<br>
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=hugoprd&show_icons=true&theme=midnight-purple)
