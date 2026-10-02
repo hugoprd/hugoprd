@@ -41,6 +41,13 @@ my profile blends what I learn at university, what I learn by myself, and my hob
 <br>
 
 <!-- START_LANGS -->
+<pre>
+Python       ██████░░░░░░░░░ 44.5%
+Java         ███░░░░░░░░░░░░ 21.8%
+Jupyter Notebook █░░░░░░░░░░░░░░ 13.2%
+Shell        █░░░░░░░░░░░░░░ 7.3%
+GDScript     ░░░░░░░░░░░░░░░ 5.6%
+</pre>
 <!-- END_LANGS -->
 
 ### 2.2. libraries
