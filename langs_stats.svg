@@ -12,9 +12,9 @@
             .text { fill: #24292f; }
             }
         </style>
-            <text x="0" y="25" class="text" xml:space="preserve">          python  ██████░░░░░░░░░  44.9%</text>
-    <text x="0" y="53" class="text" xml:space="preserve">            java  ███░░░░░░░░░░░░  21.6%</text>
-    <text x="0" y="81" class="text" xml:space="preserve">jupyter notebook  █░░░░░░░░░░░░░░  13.1%</text>
-    <text x="0" y="109" class="text" xml:space="preserve">           shell  █░░░░░░░░░░░░░░  7.3%</text>
-    <text x="0" y="137" class="text" xml:space="preserve">        gdscript  ░░░░░░░░░░░░░░░  5.6%</text>
+            <text x="0" y="25" class="text" xml:space="preserve">          python  ██████░░░░░░░░░  45.1%</text>
+    <text x="0" y="53" class="text" xml:space="preserve">            java  ███░░░░░░░░░░░░  21.5%</text>
+    <text x="0" y="81" class="text" xml:space="preserve">jupyter notebook  █░░░░░░░░░░░░░░  13.0%</text>
+    <text x="0" y="109" class="text" xml:space="preserve">           shell  █░░░░░░░░░░░░░░  7.4%</text>
+    <text x="0" y="137" class="text" xml:space="preserve">        gdscript  ░░░░░░░░░░░░░░░  5.5%</text>
         </svg>
